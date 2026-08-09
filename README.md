@@ -1,16 +1,26 @@
-## Hi there 👋
+### Привет, я Алена 👋
 
-<!--
-**alenaagrechko-prog/alenaagrechko-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Agent Developer | Backend Engineer**
 
-Here are some ideas to get you started:
+Я проектирую архитектуру автономных ИИ-агентов и B2B-нейросотрудников. Имея сильный продуктовый бэкграунд, я перевожу потребности бизнеса на язык алгоритмов и создаю инструменты, которые напрямую влияют на операционную эффективность компаний (снижение издержек, автоматизация рутины, RAG-системы).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Мой стек технологий
+* **Backend & Архитектура:** Python 3.11, FastAPI, Docker, Finite State Machine (FSM)
+* **AI & Data Engineering:** LangGraph, LangChain, OpenAI API, ChromaDB
+* **Валидация и Данные:** Pydantic v2, JSON/JSONL, системный Prompt Engineering
+
+---
+
+### 🏗 Архитектура и Визуализация
+Поскольку исходный код большинства коммерческих B2B-проектов защищен NDA, я подготовила подробные схемы архитектуры, логику работы агентов и UI/UX моих решений в визуальном формате. 
+
+👉 **[Посмотреть архитектуру моих проектов на Behance](https://www.behance.net/alena_grechko)**
+
+---
+
+### 📫 Как со мной связаться:
+* **Telegram:** [@Ala_1589](https://t.me/Ala_1589)
+* **Email:** gavriky@mail.ru
+* **Behance:** [alena_grechko](https://www.behance.net/alena_grechko)
