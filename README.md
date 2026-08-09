@@ -23,4 +23,3 @@
 ### 📫 Как со мной связаться:
 * **Telegram:** [@Ala_1589](https://t.me/Ala_1589)
 * **Email:** gavriky@mail.ru
-* **Behance:** [alena_grechko](https://www.behance.net/alena_grechko)
