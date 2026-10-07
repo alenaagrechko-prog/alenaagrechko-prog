@@ -7,9 +7,12 @@
 ---
 
 ### 🛠 Мой стек технологий
-* **Backend & Архитектура:** Python 3.11, FastAPI, Docker, Finite State Machine (FSM)
-* **AI & Data Engineering:** LangGraph, LangChain, OpenAI API, ChromaDB
-* **Валидация и Данные:** Pydantic v2, JSON/JSONL, системный Prompt Engineering
+* **AI & LLM:** LangGraph, LangChain, OpenAI API, Anthropic (Claude), Prompt Engineering, Tool Calling
+* **Backend & Архитектура:** Python 3.11, FastAPI, Finite State Machine (FSM), Asyncio
+* **Оркестрация & Инструменты:** n8n, Cursor IDE, Docker
+* **Базы данных & Векторный поиск:** ChromaDB, FAISS, PostgreSQL, SQL
+* **Данные & Парсинг:** BeautifulSoup, requests, REST API, JSON/JSONL, Pydantic v2
+* **Интерфейсы:** Streamlit, WeWeb
 
 ---
 
@@ -21,5 +24,5 @@
 ---
 
 ### 📫 Как со мной связаться:
-* **Telegram:** [@Ala_1589](https://t.me/Ala_1589)
+* **Telegram:** @Ala_1589
 * **Email:** gavriky@mail.ru
